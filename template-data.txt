@@ -1,0 +1,30 @@
+  {
+    name: 'Tutorial API Bookshelf',
+    year: 2023,
+    author: 'Mif',
+    summary: 'Belajar membuat RESTful API dengan baik dan benar',
+    publisher: 'Mif OS',
+    pageCount: 55,
+    readPage: 21,
+    reading: false,
+  },
+{
+    "name": "Belajar Mudah Programming",
+    "year": 2023,
+    "author": "Mif",
+    "summary": "Semangat belajar programming yang menyenangkan",
+    "publisher": "Mif OS",
+    "pageCount": 100,
+    "readPage": 100,
+    "reading": true
+}
+{
+  id: 'Auwn26BUsobc',
+  name: 'Tutorial API Bookshelf',
+  publisher: 'Mif OS',
+},
+{
+  id: 'MaueoscGsw1',
+  name: 'Belajar Mudah Programming',
+  publisher: 'Tachul',
+},
